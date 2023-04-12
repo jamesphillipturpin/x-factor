@@ -51,6 +51,10 @@ Here is a to-do list. Besides you or I laboriously writing original code, anyone
 
 #20. Adding a feature to suggest unit tests: You can modify the prompt generator to suggest unit tests for the code being edited. This can help developers ensure that their code is functioning correctly
 
+## Call to Action
+
+If you want help with a similar or related project, let the me, the author jamesphillipturpin, know. I am also a licensed structural engineer, and experienced with algorithmic trading. If you have an AI project that intersects one of those fields, it may be an especially good fit.
+
 
 # Wolverine
 
