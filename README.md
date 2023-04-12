@@ -5,7 +5,7 @@ Wolverine gave your python scripts regenerative healing abilities. X-Factor is l
 
 The script x-factor.py is an extreme refactoring of the wolverine.py script for added functionality and a higher level, object oriented programming (OOP) approach. X-Factor does not rely entirely on one AI model or one curator of AI models. Instead, class wrappers are used to allow seemless access to both Application Program Interfaces (APIs) and direct downloads of models, such as models available from the Face Hugger community via Python's Transformer module. This gives you the flexibility to use AI products that meet your needs, such as security of proprietary and confidential information, and your preferences, such as a preference for open source software tools.
 
-The script is completely untested. The wolverine.py script is preserved unchanged for now, so you can use it to improve the x-factor.py script if you wish. A README for the wolverine.py script is also included below.
+The x-factor.py script is completely untested and experimental. What is provided is only a preliminary snapshot of an ongoing project. The wolverine.py script is preserved unchanged for now, so you can easily use it to improve the x-factor.py script if you wish. Pull requests are encouraged. A README for the wolverine.py script is also included below.
 
 ## Call to Action
 
