@@ -4,7 +4,7 @@
 The script x-factor.py is an extreme refactoring of the wolverine.py script for added functionality and a
 higher level, object oriented programming (OOP) approach. The script is completely untested. The wolverine.py
 script is preserved unchanged for now, so you can use it to improve the x-factor.py script is you wish. The
-original README for the wolverine.py script is included below.
+README for the wolverine.py script is included below.
 
 # Wolverine
 
@@ -14,7 +14,7 @@ Give your python scripts regenerative healing abilities!
 
 Run your scripts with Wolverine and when they crash, GPT-4 edits them and explains what went wrong. Even if you have many bugs it will repeatedly rerun until it's fixed.
 
-For a quick demonstration see my [demo video on twitter](https://twitter.com/bio_bootloader/status/1636880208304431104).
+For a quick demonstration of the wolverine.py script see bio_bootloader's video [demo video on twitter](https://twitter.com/bio_bootloader/status/1636880208304431104).
 
 ## Setup
 
