@@ -1,27 +1,15 @@
 # X-Factor
 ## About
 
-Wolverine gave your python scripts regenerative healing abilities.
-X-Factor is like son of Wolverine, plus his team members. You get regenerative abilities with greater 
-flxibility through more available resources.
+Wolverine gave your python scripts regenerative healing abilities. X-Factor is like son of Wolverine, plus his team members. You get regenerative abilities with greater flxibility through more available resources.
 
-The script x-factor.py is an extreme refactoring of the wolverine.py script for added functionality and 
-a higher level, object oriented programming (OOP) approach. X-Factor does not rely entirely on one AI 
-model or one curator of AI models. Instead, class wrappers are used to allow seemless access to both 
-Application Program Interfaces (APIs) and direct downloads of models, such as models available from the 
-Face Hugger community via Python's Transformer module. This give you the flexibility to use AI products 
-that meet your needs, such as security of proprietary and confidential information, and your preferences, 
-such as a preference for open source software tools.
+The script x-factor.py is an extreme refactoring of the wolverine.py script for added functionality and a higher level, object oriented programming (OOP) approach. X-Factor does not rely entirely on one AI model or one curator of AI models. Instead, class wrappers are used to allow seemless access to both Application Program Interfaces (APIs) and direct downloads of models, such as models available from the Face Hugger community via Python's Transformer module. This give you the flexibility to use AI products that meet your needs, such as security of proprietary and confidential information, and your preferences, such as a preference for open source software tools.
 
-The script is completely untested. The wolverine.py script is preserved unchanged for now, so you can use 
-it to improve the x-factor.py script is you wish. A README for the wolverine.py script is also included
-below.
+The script is completely untested. The wolverine.py script is preserved unchanged for now, so you can use it to improve the x-factor.py script is you wish. A README for the wolverine.py script is also included below.
 
 ## Future Plans
 
-Here is a to-do list. Besides you or I laboriously writing original code, anyone can also use the items on 
-this list to prompt AI models for more changes to this or similar scripts. The pound symbol is intentionally 
-employed as a double entendre to mean "number" and a comment code.
+Here is a to-do list. Besides you or I laboriously writing original code, anyone can also use the items on this list to prompt AI models for more changes to this or similar scripts. The pound symbol is intentionally employed as a double entendre to mean "number" and a comment code.
 
 #1. Add docstrings and error-handling to the code, so that this program's code can itself be comprehended and edited easily by NLP modules.
 
