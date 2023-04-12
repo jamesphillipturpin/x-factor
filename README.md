@@ -53,7 +53,7 @@ Here is a to-do list. Besides you or I laboriously writing original code, anyone
 
 ## Call to Action
 
-If you want help with a similar or related project, let the me, the author jamesphillipturpin, know. I am also a licensed structural engineer, and experienced with algorithmic trading. If you have an AI project that intersects one of those fields, it may be an especially good fit.
+If you want help with a similar or related project, please contact the author jamesphillipturpin. I am also a licensed structural engineer, and experienced with algorithmic trading. I also took classes related to AI at Caltech. If you have an AI related project that intersects one of those fields, it may be an especially good fit.
 
 
 # Wolverine
