@@ -7,6 +7,10 @@ The script x-factor.py is an extreme refactoring of the wolverine.py script for 
 
 The script is completely untested. The wolverine.py script is preserved unchanged for now, so you can use it to improve the x-factor.py script is you wish. A README for the wolverine.py script is also included below.
 
+## Call to Action
+
+If you want help with a similar or related project, please contact the author jamesphillipturpin. I took classes related to AI at Caltech, and I am also a licensed structural engineer, and experienced with algorithmic trading. If you have an AI related project that intersects one or more of those fields, it may be an especially good fit.
+
 ## Future Plans
 
 Here is a to-do list. Besides you or I laboriously writing original code, anyone can also use the items on this list to prompt AI models for more changes to this or similar scripts. The pound symbol is intentionally employed as a double entendre to mean "number" and a comment code.
@@ -50,11 +54,6 @@ Here is a to-do list. Besides you or I laboriously writing original code, anyone
 #19. Adding a feature to learn from the developer's corrections: You can modify the script to learn from the corrections made by the developer and use this information to improve the quality of its suggestions. This can help the script adapt to the developer's coding style and preferences.
 
 #20. Adding a feature to suggest unit tests: You can modify the prompt generator to suggest unit tests for the code being edited. This can help developers ensure that their code is functioning correctly
-
-## Call to Action
-
-If you want help with a similar or related project, please contact the author jamesphillipturpin. I am also a licensed structural engineer, and experienced with algorithmic trading. I also took classes related to AI at Caltech. If you have an AI related project that intersects one of those fields, it may be an especially good fit.
-
 
 # Wolverine
 
