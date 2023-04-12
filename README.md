@@ -1,10 +1,18 @@
 # X-Factor
 ## About
 
+It's like the son of Wolverine, plus his team members.
+
 The script x-factor.py is an extreme refactoring of the wolverine.py script for added functionality and a
 higher level, object oriented programming (OOP) approach. The script is completely untested. The wolverine.py
 script is preserved unchanged for now, so you can use it to improve the x-factor.py script is you wish. The
 README for the wolverine.py script is included below.
+
+X-Factor does not rely entirely on one AI model or one curator of AI models. Class wrappers are used to allow 
+access through both Application Program Interfaces (APIs) and direct downloads of models, such as models 
+available from the Face Hugger community via Python's Transformer module. This give you the flexibility to use
+AI products that meet your needs, such as security of proprietary and confidential information, and your 
+preferences, such as a preference for open source software tools.
 
 # Wolverine
 
