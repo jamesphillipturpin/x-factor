@@ -1,3 +1,11 @@
+# X-Factor
+## About
+
+The script x-factor.py is an extreme refactoring of the wolverine.py script for added functionality and a
+higher level, object oriented programming (OOP) approach. The script is completely untested. The wolverine.py
+script is preserved unchanged for now, so you can use it to improve the x-factor.py script is you wish. The
+original README for the wolverine.py script is included below.
+
 # Wolverine
 
 ## About
