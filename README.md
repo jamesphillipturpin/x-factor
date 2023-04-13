@@ -9,9 +9,6 @@ The x-factor.py script is completely untested and experimental. What is provided
 
 ## Call to Action
 
-### Consulting with the Author
-If you want help with a similar or related project, please contact the author jamesphillipturpin. I took classes related to AI at Caltech, and I am also a licensed structural engineer, and experienced with algorithmic trading. If you have an AI related project that intersects one or more of those fields, it may be an especially good fit.
-
 ### Community Contribution
 In the age of AI, we still need high level thinking and gumption to follow through on good ideas.
 If you want to become a contributor to this repository, here are some ways you can help.
@@ -26,6 +23,9 @@ Here are some ways that you can contribute to the documentation, in no particula
 2. Add documentation of existing features.
 3. Improve the quality of the writing.
 4. Ask AI to do any of the above.
+
+### Consulting with the Repository Owner
+If you want help with a similar or related project, please contact the author jamesphillipturpin. I took classes related to AI at Caltech, and I am also a licensed structural engineer, and experienced with algorithmic trading. If you have an AI related project that intersects one or more of those fields, it may be an especially good fit.
 
 ## Future Plans
 
