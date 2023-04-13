@@ -10,6 +10,9 @@ The x-factor.py script is completely untested and experimental. What is provided
 ## Call to Action
 
 ### Community Contribution
+Contributors are encouraged to learn about the tools used to customize large language models. I am preparing and curating a YouTube playlist for those who want to immerse themselves.
+https://youtube.com/playlist?list=PLluQwLgQf-EP2VJC20IqNLuzJKdPsSQjp
+
 In the age of AI, we still need high level thinking and gumption to follow through on good ideas.
 If you want to become a contributor to this repository, here are some ways you can help.
 
