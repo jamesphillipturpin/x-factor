@@ -60,3 +60,17 @@ Here is a list of to-do items for future versions of X-Factor. Anyone is welcome
 13. Few Shot Model Fine Tuning
 
 Thank you for your interest in X-Factor. We look forward to your contributions!
+
+## Setup
+
+    git clone https://github.com/jamesphillipturpin/x-factor.git
+    cd x-factor
+    pip install requirements.txt
+
+Add your openAI api key to `openai_key.txt`.
+
+## Example Usage
+
+To run:
+
+    python x-factor.py buggy_script.py --args="Add 1 2"
