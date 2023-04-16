@@ -76,6 +76,10 @@ Here is a to-do list. Besides you or I laboriously writing original code, anyone
 
 # Wolverine
 
+## Disclaimer
+
+Although Wolverine offered some inspiration for this repository, Wolverine is deprecated. It is recommended that you not run the wolverine.py file as is, as that could results in an infinite loop of expensive API calls.
+
 ## About
 
 Give your python scripts regenerative healing abilities!
