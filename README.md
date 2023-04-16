@@ -87,6 +87,7 @@ Give your python scripts regenerative healing abilities!
 Run your scripts with Wolverine and when they crash, GPT-4 edits them and explains what went wrong.
 
 For a quick demonstration of the wolverine.py script see bio_bootloader's video [demo video on twitter](https://twitter.com/bio_bootloader/status/1636880208304431104).
+Note the video is based on bio_bootloader's version of the wolverine.py script, which includes the potentially infinite loop that has been removed in this fork.
 
 ## Setup
 
