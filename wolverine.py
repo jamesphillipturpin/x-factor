@@ -128,7 +128,10 @@ def main(script_name, *script_args, revert=False, model="gpt-4"):
     # Make a backup of the original script
     shutil.copy(script_name, script_name + ".bak")
 
-    while True:
+    
+    #while True:
+    max_trials = 1
+    for _ in range(max_trials):
         output, returncode = run_script(script_name, script_args)
 
         if returncode == 0:
