@@ -5,7 +5,7 @@ Wolverine gave your python scripts regenerative healing abilities. X-Factor is l
 
 The script x-factor.py is an extreme refactoring of the wolverine.py script for added functionality and a higher level, object oriented programming (OOP) approach. X-Factor does not rely entirely on one AI model or one curator of AI models. Instead, class wrappers are used to allow seemless access to both Application Program Interfaces (APIs) and direct downloads of models, such as models available from the Face Hugger community via Python's Transformer module. This gives you the flexibility to use AI products that meet your needs, such as security of proprietary and confidential information, and your preferences, such as a preference for open source software tools.
 
-The x-factor.py script is completely untested and experimental. What is provided is only a preliminary snapshot of an ongoing project. The wolverine.py script is preserved unchanged for now, so you can easily use it to improve the x-factor.py script if you wish. Pull requests are encouraged. A README for the wolverine.py script is also included below.
+The x-factor.py script is experimental. What is provided is only a preliminary snapshot of an ongoing project.
 
 ## Call to Action
 
@@ -78,13 +78,13 @@ Here is a to-do list. Besides you or I laboriously writing original code, anyone
 
 ## Disclaimer
 
-Although Wolverine offered some inspiration for this repository, Wolverine is deprecated. It is recommended that you not run the wolverine.py file as is, as that could results in an infinite loop of expensive API calls.
+Although Wolverine offered some inspiration for this repository, Wolverine is deprecated. It is recommended that you not run the original wolverine.py file, as that could results in an infinite loop of expensive API calls. The wolverine.py file in this repository has had the head of the infinite loop commented out and replaced with a head that runs the loop once.
 
 ## About
 
 Give your python scripts regenerative healing abilities!
 
-Run your scripts with Wolverine and when they crash, GPT-4 edits them and explains what went wrong. Even if you have many bugs it will repeatedly rerun until it's fixed.
+Run your scripts with Wolverine and when they crash, GPT-4 edits them and explains what went wrong.
 
 For a quick demonstration of the wolverine.py script see bio_bootloader's video [demo video on twitter](https://twitter.com/bio_bootloader/status/1636880208304431104).
 
@@ -94,7 +94,7 @@ For a quick demonstration of the wolverine.py script see bio_bootloader's video 
     source venv/bin/activate
     pip install -r requirements.txt
 
-Add your openAI api key to `openai_key.txt` - _warning!_ by default this uses GPT-4 and may make many repeated calls to the api.
+Add your openAI api key to `openai_key.txt` - _warning!_ by default this uses GPT-4.
 
 ## Example Usage
 
@@ -105,14 +105,3 @@ To run with gpt-4 (the default, tested option):
 You can also run with other models, but be warned they may not adhere to the edit format as well:
 
     python wolverine.py --model=gpt-3.5-turbo buggy_script.py "subtract" 20 3
-
-## Future Plans
-
-This is just a quick prototype I threw together in a few hours. There are many possible extensions and contributions are welcome:
-
-- add flags to customize usage, such as asking for user confirmation before running changed code
-- further iterations on the edit format that GPT responds in. Currently it struggles a bit with indentation, but I'm sure that can be improved
-- a suite of example buggy files that we can test prompts on to ensure reliablity and measure improvement
-- multiple files / codebases: send GPT everything that appears in the stacktrace
-- graceful handling of large files - should we just send GPT relevant classes / functions?
-- extension to languages other than python
